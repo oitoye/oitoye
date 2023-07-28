@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Joel oitoye
-- 🌱 I’m currently learning ...job hunting as well
-- 👀 I’m interested in ...java ,spring and mysql
-- 💞️ I’m looking to collaborate on ...java projects 
+- 🌱
+- 👀 I’m interested in ...java,python and mysql
+- 💞️ I’m looking to collaborate on ...java and python projects 
 - 📫 How to reach me ...joeloitoye@gmail.com
 
 <!---
